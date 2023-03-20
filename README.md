@@ -2,7 +2,7 @@
 
 <div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tamjeed+Hur+%F0%9F%91%8B;Computer+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Adam+Zar+%F0%9F%91%8B;Computer+Engineer;Full-stack+Developer;Problem+Solver;Freelancer" alt="Headline" />
     </div>
   
 <h3 align="center">Contact me</h3>
@@ -23,7 +23,7 @@
         </p>
         <ul>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1PGIkDl02kumWz8JEeVSMwsVHPa3IhAkd/view?usp=sharing">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/tamjeedhur/tamjeedhur/issues">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/adamzar30/adamzar30/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Helping people(📷).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb">Link to my UpWork Full Stack Development Specialization</a>.</li>
@@ -96,8 +96,8 @@
 
  ## By the way here are some of my statistics 🚀
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=tamjeedhur&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamjeedhur&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=adamzar30&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamzar30&theme=tokyonight" alt="mystreak"/>
 
    
 </div>
