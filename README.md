@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Adam+Zar+%F0%9F%91%8B;Computer+Engineer;Full-stack+Developer;Problem+Solver;Freelancer" alt="Headline" />
@@ -9,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tamjeed-hur-25342b124/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://www.upwork.com/freelancers/~014555e07a4a2e750d"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
 </p>
     <div align=left>
         <br>
@@ -26,7 +24,7 @@
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/adamzar30/adamzar30/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Helping people(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~014555e07a4a2e750d">Link to my UpWork Full Stack Development Specialization</a>.</li>
         </ul>
     </div>
     
